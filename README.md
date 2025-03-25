@@ -5,6 +5,9 @@ This repo is home to dashboards and tooling designed to shed light on how long u
 We extract and timestamp key transitions (e.g., U2 → U4) using sources like Logfood, then visualize trends, averages, and outliers—per SA manager, per use case, or however else we need to make the invisible visible.
 
 Perfect for:
+
 🔍 Diagnosing bottlenecks
+
 📈 Coaching SAs with data
+
 🧠 Driving accountability and better forecasting
